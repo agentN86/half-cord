@@ -1,6 +1,6 @@
 # Half-Cord
 
-Half-Cord is a simple implementation of adding Discord's rich presence to Half-Life. This project is currently **in progress,** so expect bugs and more. This project will be open source once its released. This project will firsted be worked on in ![image]() Windows, so Mac and Linux will come next once the Windows version is done.
+Half-Cord is a simple implementation of adding Discord's rich presence to Half-Life. This project is currently **in progress,** so expect bugs and more. This project will be open source once its released. This project will firsted be worked on in ![image](windows.png) Windows, so Mac and Linux will come next once the Windows version is done.
 
 # Example
 Here is an example of the rich presence in action.
