@@ -9,3 +9,19 @@ Here is an example of the rich presence in action. Of course, the "Half-Cord" wi
 
 # Credits
 This project uses the Discord rich presence API. You can get it yourself at [https://github.com/discord/discord-rpc/releases](https://github.com/discord/discord-rpc/releases). I would also like to thank the [VALVE software wiki](https://developer.valvesoftware.com/wiki/Implementing_Discord_RPC), for a starting hand.
+
+# FAQ
+
+**Q: Will you add HL2 support?**
+A: Yes! After doing Half-Cord, I will probably make Half-Cord 2, being Half-Cord but for HL2.
+
+**Q: Is this open source?**
+A: Yes. This project is followed by the [MIT License.](https://github.com/agentN86/half-cord/blob/main/LICENSE).
+
+**Q: Will you make the project cost money?**
+A: Np, I will not. I do not want to request money for a simple project.
+
+**Q: Will there be any other sources of downloading?**
+A: Yes. It will be on my website, which I am trying to make the store* for this product.
+
+* The product will not be sold for money.
