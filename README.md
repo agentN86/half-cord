@@ -12,16 +12,16 @@ This project uses the Discord rich presence API. You can get it yourself at [htt
 
 # FAQ
 
-**Q: Will you add HL2 support?**
+**Q: Will you add HL2 support?**<br>
 A: Yes! After doing Half-Cord, I will probably make Half-Cord 2, being Half-Cord but for HL2.
 
-**Q: Is this open source?**
+**Q: Is this open source?**<br>
 A: Yes. This project is followed by the [MIT License.](https://github.com/agentN86/half-cord/blob/main/LICENSE).
 
-**Q: Will you make the project cost money?**
+**Q: Will you make the project cost money?**<br>
 A: Np, I will not. I do not want to request money for a simple project.
 
-**Q: Will there be any other sources of downloading?**
+**Q: Will there be any other sources of downloading?**<br>
 A: Yes. It will be on my website, which I am trying to make the store* for this product.
 
 * The product will not be sold for money.
