@@ -22,6 +22,4 @@ A: Yes. This project is followed by the [MIT License.](https://github.com/agentN
 A: Np, I will not. I do not want to request money for a simple project.
 
 **Q: Will there be any other sources of downloading?**<br>
-A: Yes. It will be on my website, which I am trying to make the store* for this product.
-
-* The product will not be sold for money.
+A: Yes. It will be on my website, which I am trying to make the "store" for this product. It will not actually be a store, but that is where I will sell it (for free).
